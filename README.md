@@ -1,4 +1,4 @@
-# Stduent Info
+# Student Info - Booking API
 
 - Frontend built using NextJs shows a small chatbot ui.
 - Backend built using NestJs has minimal APIs with JWT auth.
